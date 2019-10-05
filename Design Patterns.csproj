@@ -46,6 +46,7 @@
     <Compile Include="Behevioural\Iterator.cs" />
     <Compile Include="Behevioural\Memento.cs" />
     <Compile Include="Behevioural\Observer.cs" />
+    <Compile Include="Creational\Builder.cs" />
     <Compile Include="Creational\Factory.cs" />
     <Compile Include="empty.cs" />
     <Compile Include="Program.cs" />
